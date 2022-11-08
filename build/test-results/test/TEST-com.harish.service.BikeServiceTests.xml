@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.harish.service.BikeServiceTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-08T11:50:06" hostname="Harishs-MacBook-Air.local" time="0.034">
-  <properties/>
-  <testcase name="getBikeDetails_WhenBikeNotFount" classname="com.harish.service.BikeServiceTests" time="0.034"/>
-  <testcase name="getBikeDetails_returnsBikeInfo" classname="com.harish.service.BikeServiceTests" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

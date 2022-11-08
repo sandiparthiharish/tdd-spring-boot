@@ -1,1 +1,0 @@
-INSERT INTO bike (id,name,color) VALUES (2,'Honda','White');
