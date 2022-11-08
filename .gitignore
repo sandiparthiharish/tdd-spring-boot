@@ -1,2 +1,8 @@
-.gradle
-build
+### IntelliJ IDEA ###
+.idea
+
+### NetBeans ###
+build/
+
+### NetBeans ###
+.gradle/
